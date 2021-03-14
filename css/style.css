@@ -757,6 +757,11 @@ header.mobile-header-2 .site-logo img {
 .desktop-header-3 .navbar-nav li:not(:last-child) {
   padding-right: 3rem;
 }
+
+.circle-img {
+  border-radius: 50%;
+}
+
 @media (min-width: 992px) {
   .desktop-header-3 .navbar-expand-lg .navbar-nav .nav-link {
     padding-right: 0;
